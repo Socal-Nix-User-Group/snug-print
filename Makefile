@@ -1,5 +1,7 @@
-build: 
-	typst compile --font-path fonts $(file) $(file).pdf
+compile: 
+	mkdir -p build
+	typst compile --font-path src/fonts $(file) $(file).pdf
+	mv $(file).pdf build
 
 preview: 
-	tinymist preview --preview-mode slide --font-path fonts/ $(file) 
+	tinymist preview --preview-mode slide --font-path src/fonts/ $(file) 
