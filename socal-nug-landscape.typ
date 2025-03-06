@@ -9,8 +9,8 @@
   #linebreak()
   #linebreak()
   #linebreak()
-    #text(font: "Albert Sans", weight: "medium", size: 48pt)[
-    #text(font: "Albert Sans", weight: "medium")[    
+    #text(font: "Albert Sans", weight: "bold", size: 48pt)[
+    #text(font: "Albert Sans", weight: "bold")[    
       Long Beach City College,
 Liberal Arts Campus
     ]
