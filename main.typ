@@ -19,9 +19,9 @@
     ]
       #linebreak()
       #linebreak()
-      Saturday May 3rd, 2025
+      Saturday, May 3rd 2025
       #linebreak()
-      14:00 - 17:00
+      2pm - 5pm
     ]
     
   ]
